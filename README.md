@@ -1,8 +1,8 @@
 ## ✨ 한결같은 개발자 김주연 입니다 ✨
 
-### Profile
-👋 김주연 <br>
-👋 2000.03.13 <br>
+### 👋 Profile
+ 김주연 <br>
+ 2000.03.13 <br>
 📞 010-9214-2678
 
 ### 📊 GitHub stats
@@ -19,7 +19,7 @@
    <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 </a>
 
-## Skills
+### 💻 Skills
 
 | Back-End | Front-End | Database | IDE |
 | --- | --- | --- | --- |
