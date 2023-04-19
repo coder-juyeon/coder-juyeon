@@ -10,6 +10,7 @@
 <a href="https://blog.naver.com/mmoongcoco">
    <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 </a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m9037m@gmail.com)](mailto:m9037m@gmail.com) <span><a href="https://www.notion.so/71efea68c82a40118f5f044cd54a3228"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 ### 💻Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
