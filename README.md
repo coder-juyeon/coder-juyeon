@@ -17,7 +17,6 @@
 | --- | --- | --- | --- |
 | <span><img src="https://img.shields.io/badge/Slack-4A154B.svg?style=round-square&logo=Slack&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Discord-5865F2?style=round-square&logo=Discord&logoColor=black"/></span>
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 | <span><img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/Gradle-02303A?style=round-square&logo=Gradle&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/-yml-brightgreen"/></span> | <span><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=round-square&logo=Spring&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/-QueryDSL-critical"/></span> <span><img src="https://img.shields.io/badge/-Quartz-ff69b4"/></span> <span><img src="https://img.shields.io/badge/JUnit-25A162?style=round-square&logo=JUnit&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/-JDBC-blue"/> <span><img src="https://img.shields.io/badge/-WebSocket-orange"/> <span><img src="https://img.shields.io/badge/-REST-green"/> <span><img src="https://img.shields.io/badge/-Kakao%20Map-yellow"/></span> |
 
 ### ⚒️ Tools 🛠️
