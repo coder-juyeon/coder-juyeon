@@ -1,5 +1,5 @@
 ### 👋✨ 한결같은 개발자 김주연 입니다 ✨👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoongcoco&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-juyeon&theme=dark&show_icons=true)
 
 ### 📚Portfolio
 <!-- 노션 -->
