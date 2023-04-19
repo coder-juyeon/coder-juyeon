@@ -1,6 +1,14 @@
-### 👋✨ 한결같은 개발자 김주연 입니다 ✨👋
+### ✨ 한결같은 개발자 김주연 입니다 ✨
+
+## Profile
+👋 김주연 <br>
+👋 2000.03.13 <br>
+📞 010-9214-2678
+
+#📊 GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-juyeon&theme=white&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-juyeon&layout=compact">
+
 ### 📚Portfolio
 <!-- 노션 -->
 <a href="https://www.notion.so/e2bc62ba97904753870c970cd162f4e1">
