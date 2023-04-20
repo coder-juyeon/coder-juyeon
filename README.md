@@ -11,7 +11,7 @@
 
 ### 📚 Portfolio
 <!-- 노션 -->
-<a href="https://www.notion.so/e2bc62ba97904753870c970cd162f4e1">
+<a href="[https://www.notion.so/e2bc62ba97904753870c970cd162f4e1](https://www.notion.so/33c41e9ff4ff40ea81b86a6847a3fa72?pvs=4)">
    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </a>
 <!-- 네이버블로그 -->
