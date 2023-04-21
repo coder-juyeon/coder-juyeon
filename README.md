@@ -11,9 +11,10 @@
 
 ### 📚 Portfolio
 <!-- 노션 -->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijung93@gmail.com)](mailto:orijung93@gmail.com) 
 <a href="https://www.notion.so/e2bc62ba97904753870c970cd162f4e1">
    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-</a>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijung93@gmail.com)](mailto:orijung93@gmail.com) 
+</a>
 
 ### 💻 Skills
 
