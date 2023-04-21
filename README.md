@@ -14,10 +14,8 @@
 <a href="https://www.notion.so/e2bc62ba97904753870c970cd162f4e1">
    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </a>
-<!-- 네이버블로그 -->
-<a href="https://blog.naver.com/mmoongcoco">
-   <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-</a>
+<!-- 지메일 -->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjy26789@gmail.com)](mailto:kjy26789@gmail.com) 
 
 ### 💻 Skills
 
