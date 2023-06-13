@@ -11,7 +11,7 @@
 
 ### 📚 Portfolio
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjy26789@gmail.com)](mailto:kjy26789@gmail.com) 
-<a href="https://www.notion.so/1-868bf8707ac14aa990322046f97151c4?pvs=4">
+<a href="https://melodious-harpymimus-d21.notion.site/868bf8707ac14aa990322046f97151c4?pvs=4">
    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </a>
 ### 💻 Skills
