@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Juyeon_Kim&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:094c99,100:c91493&height=280&section=header&text=Juyeon_Kim&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <h3 align="center">안녕하세요! 개발자 준비중인 김주연입니다! </h3>
 <h3 align="center">👋About Me👋</h3>
