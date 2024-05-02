@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:094c99,100:c91493&height=280&section=header&text=Juyeon_Kim&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
-<h3 align="center">안녕하세요! 개발자 준비중인 김주연입니다! </h3>
+<h3 align="center">안녕하세요! 김주연입니다 </h3>
 <h3 align="center">👋About Me👋</h3>
 <p align="center"><a href="kjy26789@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:disappointed123419@gmail.com)](mailto:disappointed123419@gmail.com)"/></a>&nbsp
 <a href="https://melodious-harpymimus-d21.notion.site/868bf8707ac14aa990322046f97151c4?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=white"/></a>&nbsp</p>
